@@ -1,0 +1,213 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  #search-bar {
+    width: 600px;
+    max-width: 80%;
+    background-color: #fff;
+    border: 0.5px solid #ccc;
+    border-radius: 40px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin-top: -20px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 60px;
+    margin-top: -270px; 
+  }
+  
+  #search-input {
+    flex: 1;
+    border: none;
+    font-size: 16px;
+    padding: 0 10px;
+  }
+  
+  #search {
+    margin-left: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 60px;
+  }
+  
+  #top-right {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+  }
+  
+  #top-right a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #000;
+    z-index: 9999;
+  }
+
+  h2 {
+    margin: 0;
+    margin-right: 10px;
+  }
+  
+  #dots-icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 20px;
+    width: 7px;
+  }
+  
+  #dots-icon span {
+    background-color: #000;
+    border-radius: 50%;
+    height: 4px;
+    width: 4px;
+  }
+  
+  #search {
+    margin-right: 10px;
+  }
+  
+  #search button {
+    float: left;
+    margin-right: 5px;
+    margin-top: 30px;
+    font-size: 15px;
+  }
+
+  #search2 button {
+    float: left;
+    margin-right: 5px;
+    border: none;
+    margin-top: 30px;
+    font-size: 17px;
+  }
+  
+  #button-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  #search2 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  #language-options {
+    display: flex;
+    margin-left: 5px;
+    align-items: center;
+    margin-top: 29px;
+  }
+  
+  #language-options a {
+    text-decoration: none;
+    color: #000;
+    margin-right: 10px;
+  }
+
+  #footer2 {
+    position: fixed;
+    left: 10px;
+    bottom: 10px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    z-index: 9999;
+  }
+  
+  #footer-content2 {
+    display: flex;
+  }
+  
+  /*#footer2 {
+    margin-right: 10px;
+    border: none;
+  }*/
+  
+  #footer2 a{
+    text-decoration: none;
+    color:#000;
+    margin-right: 10px;
+  }
+
+  #footer a{
+    text-decoration: none;
+    color:#000;
+    margin-right: 10px;
+  }
+  
+  #footer1 a{
+    text-decoration: none;
+    color:#000;
+    margin-right: 10px;
+  }
+  
+
+  #footer {
+    position: fixed;
+    left: 10px;
+    bottom: calc(50px + 2px); 
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  #footer-content {
+    display: flex;
+  }
+  
+  #footer button {
+    margin-right: 10px;
+    border: none;
+  }
+  
+  
+  #footer1 {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+
+  #footer-content1 {
+    display: flex;
+  }
+  
+  #footer1 button {
+    margin-right: 10px;
+    border: none;
+  }
+
+
+  hr {
+    position: fixed;
+    left: 10px; 
+    bottom: calc(40px + 2px); /* Position the <hr> tag just below the #footer element */
+    width: 100%; 
+    height: 2px; 
+    background-color: black;
+    border: none;
+  }
+
+  
+  
