@@ -1,0 +1,2123 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; 
+}
+
+.p1{
+    margin-top: 20px;
+    margin-left: -60px;
+    color:palevioletred;
+}
+
+  .p2{
+    margin-top:12px;
+ 
+}  
+
+.p3{
+    font-size: 14px;
+}
+
+.p7{
+  margin-top: -3.5rem;
+  margin-left: 80px;
+}
+
+.p8{
+  margin-top: -1rem;
+  margin-left:5rem ;
+}
+
+.p9{
+  margin-top: -3.5rem;
+  margin-left: 72px;
+}
+
+.p10{
+  margin-top: -1rem;
+  margin-left:4.5rem ;
+}
+
+
+.p11{
+  margin-top: -3.5rem;
+  margin-left: 72px;
+}
+
+.p12{
+  margin-top: -1rem;
+  margin-left:4.5rem ;
+}
+
+
+ .p4{
+  font-size: 20px;
+} 
+
+.p5{
+  margin-top: -3.5rem;
+  margin-left: 90px;
+}
+
+.p6{
+  margin-top: -1rem;
+  margin-left:5.5rem ;
+}
+
+.p13{
+  margin-top: 0.5rem;
+  margin-left: 2rem;
+  cursor: pointer;
+
+
+}
+
+.p13:hover{
+  color: #E5547F;
+}
+
+.p14{
+  margin-top: 0.7rem;
+  margin-left: 2.5rem;
+  cursor: pointer;
+}
+
+.p14:hover{
+  color: #E5547F;
+}
+
+
+.p15{
+  margin-top: 0.7rem;
+  margin-left: 2.5rem;
+  cursor: pointer;
+}
+
+.p15:hover{
+  color: #E5547F;
+}
+
+
+.p16{
+  margin-top: 0.7rem;
+  margin-left: 2.5rem;
+  cursor: pointer;
+}
+
+.p16:hover{
+  color: #E5547F;
+}
+
+
+.p17{
+  margin-top: 0.7rem;
+  margin-left: 2.5rem;
+  cursor: pointer;
+}
+
+
+.p18{
+  margin-top: 0.7rem;
+  margin-left: 2.5rem;
+  cursor: pointer;
+}
+
+
+.p19{
+  margin-top: 0.6rem;
+  margin-left: 2.5rem;
+  cursor: pointer;
+}
+
+
+.p20{
+  margin-top: 0.7rem;
+  margin-left: 2.5rem;
+  cursor: pointer;
+}
+
+
+
+
+.p21{
+  margin-top: 0.5rem;
+  margin-left: 2rem;
+  cursor: pointer;
+
+
+}
+
+.p21:hover{
+  color: #E5547F;
+}
+
+.p22{
+  margin-top: 0.7rem;
+  margin-left: 2.5rem;
+  cursor: pointer;
+}
+
+.p22:hover{
+  color: #E5547F;
+}
+
+
+.p23{
+  margin-top: 0.7rem;
+  margin-left: 2.5rem;
+  cursor: pointer;
+}
+
+.p23:hover{
+  color: #E5547F;
+}
+
+
+.p24{
+  margin-top: 0.7rem;
+  margin-left: 2.5rem;
+  cursor: pointer;
+}
+
+.p24:hover{
+  color: #E5547F;
+}
+
+
+.p25{
+  margin-top: 0.7rem;
+  margin-left: 2.5rem;
+  cursor: pointer;
+}
+
+
+
+.p25:hover{
+  color: #E5547F;
+}
+
+.p26{
+  margin-top: 0.7rem;
+  margin-left: -0rem;
+  cursor: pointer;
+  display: inline;
+}
+
+.p27{
+  margin-top: 3rem;
+  margin-left: 1rem;
+  cursor: pointer;
+  display: inline;
+}
+
+.p27:hover{
+  color: #E5547F;
+}
+
+.p28{
+  margin-top: 1rem;
+  margin-left: 9.8rem;
+  color:white;
+}
+
+.p29{
+  margin-top: -1rem;
+  margin-left: 9.8rem;
+  color: grey;
+}
+
+.p30{
+  margin-top: -2.5rem;
+  margin-left: 9.8rem;
+  color: grey;
+}
+
+.p31{
+  margin-top: 1rem;
+  margin-left:-1px;
+  cursor: pointer;
+  color: grey;
+}
+
+.p31:hover{
+  color:#DF4140;
+}
+
+.p32{
+  margin-top: 1rem;
+  margin-left:1px;
+  cursor: pointer;
+  color: grey;
+}
+
+.p32:hover{
+  color:#DF4140;
+}
+
+.p33{
+  margin-left: -11rem;
+  color: grey;
+  font-size: 12px;
+}
+.location1{
+  margin-left: 8rem;
+  color: grey;
+}
+
+.phone1{
+  margin-left: 8rem;
+  margin-top: -40rem;
+  color: grey;
+}
+
+.mail1{
+  margin-left: 8rem;
+  margin-top: -40rem;
+  color: grey;
+}
+
+.visa1{
+  margin-left: 8rem;
+  margin-top: -40rem;
+  color: grey;
+}
+
+.paypal1{
+  margin-left: 0.2rem;
+  margin-top: -40rem;
+  color: grey;
+}
+
+.mastercard1{
+  margin-left: 0.2rem;
+  margin-top: -40rem;
+color: grey;
+}
+
+.amex1{
+  margin-left: 0.2rem;
+  margin-top: -40rem;
+  color: grey;
+}
+
+.discover1{
+  margin-left: 0.2rem;
+  margin-top: -40rem;
+color: grey;
+}
+
+.f1{
+  margin-top: -10rem;
+  color:grey;
+  margin-left: -2rem;
+}
+
+.f1:hover{
+  color:#DF454A;
+}
+
+.t1{
+  margin-left: 0.5rem;
+ color:grey;
+ margin-left: 0.1rem;
+}
+
+.t1:hover{
+  color:#DF454A;
+}
+
+.pin1{
+  margin-left: 0.5rem;
+ color:grey;
+ margin-left: 1rem;
+}
+
+.pin1:hover{
+  color:#DF454A;
+}
+
+.ins1{
+  margin-left: 1rem;
+   color:grey;
+}
+
+.ins1:hover{
+  color:#DF454A;
+}
+
+.footer-location li {
+  display: inline-block; 
+  vertical-align: middle; 
+}
+
+.footer-location i {
+  margin-right: 10px; 
+}
+
+.footer-location1{
+  margin-top: -3rem;
+}
+.footer-location1 li {
+  display: inline-block;
+  vertical-align: middle; 
+}
+
+.footer-location1 i {
+  margin-right: 10px; 
+}
+
+.footer-location2{
+  margin-top: -2.1rem;
+}
+
+.footer-location2 li {
+  display: inline-block;
+  vertical-align: middle; 
+}
+
+.footer-location2 i {
+  margin-right: 10px; 
+}
+
+.footer-location3{
+  margin-top: -1.5rem;
+}
+
+.footer-location3 li {
+  display: inline-block;
+  vertical-align: middle; 
+}
+
+.footer-location4{
+list-style: none;
+margin-top: -2.5rem;
+margin-left: 2rem;
+
+}
+
+.footer-location4 li {
+  display: inline-block;
+  vertical-align: middle; 
+}
+
+
+.span1{
+display: inline-block;
+  margin-top: -10px;
+  margin-left: 40px;
+  vertical-align: middle;
+  color: #666666;
+  font-weight: bold;
+  
+}
+
+.del1{
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: -27px;
+  margin-left: 7px;
+}
+
+.del3{
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: -22px;
+  margin-left: 7px;
+}
+
+.del2{
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: -22px;
+  margin-left: 7px;
+}
+
+.del4{
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: -26px;
+  margin-left: 7px;
+}
+
+.del5{
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: -22px;
+  margin-left: 7px;
+}
+
+
+
+.span1{
+  display: inline-block;
+    margin-top: -10px;
+    margin-left: 40px;
+    vertical-align: middle;
+    color: #666666;
+    font-weight: bold;
+    
+  }
+
+.span2{
+  display: inline-block;
+  margin-top: -25px;
+  margin-left: 70px;
+  vertical-align: middle;
+  color: #666666;
+  font-weight: bold;
+}
+
+.span3{
+  display: inline-block;
+    margin-top: -20px;
+    margin-left: 40px;
+    vertical-align: middle;
+    color: #666666;
+    font-weight: bold;
+  }
+  
+  .span4{
+    display: inline-block;
+    margin-top: -20px;
+    margin-left: 75px;
+    vertical-align: middle;
+    color: #666666;
+    font-weight: bold;
+    }
+
+    
+.span5{
+  display: inline-block;
+    margin-top: -10px;
+    margin-left: 60px;
+    vertical-align: middle;
+    color: #666666;
+    font-weight: bold;
+    
+  }
+
+  
+.span6{
+  display: inline-block;
+  margin-top: -25px;
+  margin-left: 70px;
+  vertical-align: middle;
+  color: #666666;
+  font-weight: bold;
+}
+
+.span7{
+  display: inline-block;
+    margin-top: -20px;
+    margin-left: 70px;
+    vertical-align: middle;
+    color: #666666;
+    font-weight: bold;
+  }
+  
+  .span8{
+    display: inline-block;
+    margin-top: -20px;
+    margin-left: 75px;
+    vertical-align: middle;
+    color: #666666;
+    font-weight: bold;
+    }
+
+
+    .span9{
+      display: inline-block;
+        margin-top: -10px;
+        margin-left: 40px;
+        vertical-align: middle;
+        color: #666666;
+        font-weight: bold;
+        
+      }
+    
+    .span10{
+      display: inline-block;
+      margin-top: -25px;
+      margin-left: 70px;
+      vertical-align: middle;
+      color: #666666;
+      font-weight: bold;
+    }
+    
+    .span11{
+      display: inline-block;
+        margin-top: -20px;
+        margin-left: 40px;
+        vertical-align: middle;
+        color: #666666;
+        font-weight: bold;
+      }
+      
+      .span12{
+        display: inline-block;
+        margin-top: -20px;
+        margin-left: 75px;
+        vertical-align: middle;
+        color: #666666;
+        font-weight: bold;
+        }
+
+        
+      .span13{
+        display: inline-block;
+        margin-top: -20px;
+        margin-left: 75px;
+        vertical-align: middle;
+        color: #666666;
+        font-weight: bold;
+        }
+    
+.font1{
+  display: inline;
+  margin-left: 3rem;
+  cursor: pointer;
+
+ 
+}
+
+.font1:hover{
+  background-color: #F6C3CD;
+}
+
+.dropbtn {
+    background-color: white;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    /* margin-top: 1rem; */
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    margin-top: 0.6rem;
+
+  }
+
+  
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+
+  }
+  
+  .dropdown-content a:hover {color: palevioletred;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {color: palevioletred;}
+
+  /* .slideshow{
+    z-index: -1;
+  } */
+
+
+   .product-container {
+    position: relative;
+  }
+
+  .product-icons {
+    position:absolute;
+    left: 0;
+    right: 0;
+    display: none;
+    justify-content:space-between;
+    align-items: center;
+    background-color: grey;
+    padding: 5px 10px;
+    transition: background-color 0.3s, transform 0.3s, bottom 0.3s;
+    margin-top: -115px;
+  }
+
+  
+  .product-container:hover .product-icons {
+    display: flex;
+    
+
+    
+  }
+
+  .product-icons i {
+    color: white;
+    font-size: 1.5rem;
+    justify-content: center;
+    display: flex;
+    /* flex-direction: row; */
+  } 
+  
+   .product-icons i:hover{
+    background-color: #E55472;
+    cursor: pointer;
+    
+
+  } 
+
+  
+  .product-icons i:not(:last-child)::after {
+    content: '';
+    display: inline-block;
+    width: 2px; /* Increase the width to increase line height */
+    height:30px; /* Adjust the height as needed */
+    background-color: white;
+    position:relative;
+    top: 1px;
+    right: -30px; /* Adjust spacing between the lines and icons */
+}
+  
+
+
+
+
+.product-container1 {
+  position: relative;
+}
+
+.product-icons1 {
+  position:absolute;
+  left: 0;
+  right: 20px;
+  display: none;
+  justify-content:space-between;
+  align-items: center;
+  background-color: grey;
+  padding: 5px 10px;
+  transition: background-color 0.3s, transform 0.3s, bottom 0.3s;
+  margin-top: -115px;
+}
+
+
+.product-container1:hover .product-icons1 {
+  display: flex;
+  
+
+  
+}
+
+.product-icons1 i {
+  color: white;
+  font-size: 1.5rem;
+  justify-content: center;
+  display: flex;
+  /* flex-direction: row; */
+} 
+
+ .product-icons1 i:hover{
+  background-color: #E55472;
+  cursor: pointer;
+  
+
+} 
+
+
+.product-icons1 i:not(:last-child)::after {
+  content: '';
+  display: inline-block;
+  width: 2px; /* Increase the width to increase line height */
+  height:30px; /* Adjust the height as needed */
+  background-color: white;
+  position:relative;
+  top: 1px;
+  right: -30px; /* Adjust spacing between the lines and icons */
+}
+
+
+  
+.dropbtn1 {
+    background-color: white;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdown1 {
+    position: relative;
+    display: inline-block;
+  }
+
+
+  .dropdown-content1 {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    left:100%;
+  }
+
+  
+  .dropdown-content1 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content1 a:hover {color: palevioletred;}
+  
+  .dropdown1:hover .dropdown-content1 {display: block;}
+  
+  .dropdown1:hover .dropbtn {color: palevioletred;}
+
+
+
+
+  .a1{
+    background-color: #F9F9F9;
+    width:130px;
+  }
+
+  .a2{
+    background-color: #F9F9F9;
+    width:130px;
+  }
+
+  .a3{
+    background-color: #F9F9F9;
+    width:130px;
+  }
+
+  .a4{
+    background-color: #F9F9F9;
+    width:130px;
+  }
+  
+.dropbtn2 {
+  background-color: white;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  
+}
+
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+  
+}
+
+
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: white;
+  width: 800px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  left:100%;
+  margin-left: -14rem;
+  margin-top: 0.6rem;
+}
+
+
+.dropdown-content2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+ .inner-pages {
+  display: inline;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+} 
+
+ .inner-pages a {
+  white-space: nowrap;
+  margin-right: 15px; 
+} 
+
+.inner-pages1 {
+  display: inline;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+} 
+
+ .inner-pages1 a {
+  white-space: nowrap;
+  margin-left: -3rem; 
+} 
+
+.inner-pages2 {
+  display: inline;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+} 
+
+ .inner-pages2 a {
+  white-space: nowrap;
+  margin-left: -3rem; 
+} 
+
+.inner-pages3 {
+  display: inline;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  
+} 
+
+ .inner-pages3 a {
+  white-space: nowrap;
+  margin-left: -0.2rem; 
+} 
+
+.dropdown-content2 a:hover {color: palevioletred;}
+
+.dropdown2:hover .dropdown-content2 {display: block;}
+
+.dropdown2:hover .dropbtn {color: palevioletred;}
+
+/*   
+
+  .text-box{
+    animation: slide-up 2s;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+@keyframes slide-up{
+    from{
+        opacity:0.2;
+        line-height: 200px;
+    }
+
+    to{
+        opacity:1;
+        line-height: 25px;
+    }
+
+}
+
+.btn1{
+    border-radius: 20px;
+    font-size: 15px;
+    color: white;
+    background-color:#E8788D;
+    padding: 15px;
+    border-width: 2px;
+    border-color: #E8788D;
+    border:none;
+}
+
+.heading1{
+    font-size: 55px;
+ } 
+
+.heading2{
+    color: #EFE4E0;
+    font-size: 25px;
+} */
+
+
+
+
+.carousel-inner {
+  position: relative;
+}
+
+.text-box {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  animation: slide-up 2s forwards; 
+  opacity: 0;
+  width: 100%;
+  padding: 20px;
+  color: white;
+  margin-left: 100px;
+  margin-top: -200px;
+  
+}
+
+.carousel-item:hover .text-box {
+  opacity: 1;
+}
+
+@keyframes slide-up {
+  from {
+      opacity: 0.2;
+      transform: translateY(50%);
+  }
+
+  to {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+
+.btn1 {
+  border-radius: 20px;
+  font-size: 15px;
+  color: white;
+  background-color: #E8788D;
+  padding: 15px;
+  border-width: 2px;
+  border-color: #E8788D;
+  border: none;
+}
+
+
+.slideshow {
+  z-index: -1;
+}
+
+.heading1 {
+  font-size: 55px;
+}
+
+.heading2 {
+  color: #EFE4E0;
+  font-size: 25px;
+}
+
+.p4 {
+  font-size: 20px;
+  margin-top: 3rem;
+  margin-left: -1rem;
+
+}
+
+.hr1{
+  width:100px;
+  margin-left: 5px;
+  border-color:#E55472;
+  border-width: 3px;
+}
+
+.heading3{
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+.heading3::after{
+  content: "";
+  display: block;
+  width: 35%;
+  height: 2px;
+  background-color: #E55472;
+  margin-top: 10px;
+  margin-left: 5.5rem;
+}
+
+.heading4{
+  font-size: 2rem;
+  font-weight: bolder;
+  margin-left: 2.5rem;
+}
+
+.heading4::after{
+  content: "";
+  display: block;
+  width: 35%;
+  height: 2px;
+  background-color: #E55472;
+  margin-top: 10px;
+  margin-left: 3rem;
+}
+
+
+.heading5{
+  font-size: 2rem;
+  font-weight: bolder;
+  margin-left: 4.0rem;
+}
+
+.heading5::after{
+  content: "";
+  display: block;
+  width: 35%;
+  height: 2px;
+  background-color: #E55472;
+  margin-top: 10px;
+  margin-left: 3rem;
+}
+
+
+.heading6{
+  font-size: 2rem;
+  font-weight: bolder;
+  margin-left: 4.0rem;
+}
+
+.heading6::after{
+  content: "";
+  display: block;
+  width: 35%;
+  height: 2px;
+  background-color: #E55472;
+  margin-top: 10px;
+  margin-left: 3rem;
+}
+
+
+.heading7{
+  margin-top: 1rem;
+  margin-left: -0.1rem;
+  font-size: 28px;
+  cursor: pointer;
+  
+  font-weight: 400;
+}
+
+.heading7:hover{
+  color: #E5547F;
+}
+
+.heading7::after{
+  content: "";
+  display: block;
+  width: 35%;
+  height: 3px;
+  background-color: #E55472;
+  margin-top: 10px;
+  margin-left: 0.1rem;
+}
+/* .hr1{
+    width:100px;
+    margin-left: 5px;
+    border-color:#E55472;
+    border-width: 5px;
+} */
+
+.hr2{
+  width:100px;
+  margin-left: 100px;
+  border-color:#E55472;
+  border-width: 3px;
+}
+
+ .container1{
+background-color: #FDFDFD;
+
+} 
+
+ .container3{
+  margin-top: 70px;
+  margin-left: 100px;
+  overflow: hidden;
+cursor: pointer;
+  } 
+
+  .container4{
+   margin-top: 5rem;
+  }
+
+  .container5{
+    margin-top: 3rem;
+    
+  }
+
+  .container6{
+    margin-top: 3rem;
+  }
+
+  .container7{
+    margin-top: 70px;
+    overflow: hidden;
+  cursor: pointer;
+    } 
+
+ 
+    .container8{
+      background-color: #FFFFFF;
+      margin-top: -8px;
+      
+      } 
+
+      .container9{
+        margin-top: 5rem;
+       }
+
+        .container10{
+        margin-top: 5rem;
+       } 
+
+    
+
+  .container12{
+    margin-top: 4rem;
+  }
+
+  .container13{
+    margin-top: 3rem;
+  }
+
+
+  .container14{
+    margin-top: 5rem;
+    background-color: #F9F9F9;
+    height:150px;
+  }
+
+  .container15{
+    margin-top: 5rem;
+    
+
+
+  }
+
+.container16{
+  list-style: none;
+  display:block;
+  display:inline-block;
+  margin-top: 5rem;
+}
+
+
+.container17{
+  list-style: none;
+  display:block;
+  display:inline-block;
+  margin-top: 5rem;
+  margin-left: -12rem;
+}
+
+.container18{
+  list-style: none;
+  display:block;
+  display:inline-block;
+  margin-top: 5rem;
+  margin-left: -5rem;
+} 
+
+.container19{
+  list-style: none;
+  display:block;
+  display:inline-block;
+  margin-top: 4.8rem;
+  margin-left: -7rem;
+} 
+
+
+
+.container20{
+  list-style: none;
+  display:block;
+  display:inline-block;
+  margin-top: 5rem;
+  margin-left: -5rem;
+} 
+
+.container21{
+  margin-top:1.3rem;
+}
+
+.container22{
+  margin-left: 17rem;
+}
+
+.container23{
+  margin-left:35rem ;
+  
+}
+
+.box1{
+  margin-left: 100px;
+}
+
+.img1{
+  width:70px;
+  height:70px;
+}
+
+.img2{
+  width:60px;
+  height:60px;
+  margin-top: 14px;
+}
+
+.img3{
+  width:60px;
+  height:60px;
+  margin-top: 14px;
+}
+
+.img4{
+  width:60px;
+  height:60px;
+  margin-top: 40px;
+}
+
+
+.image8{
+
+ display:block;
+ transition: transform 4s;
+  overflow: hidden;
+  transform-origin: center;
+ 
+}
+
+.image8:hover{
+transform: scale(1.1);
+}
+
+
+.image9{
+
+  display:block;
+  transition: transform 4s;
+   overflow: hidden;
+   transform-origin: center;
+  
+ }
+ 
+ .image9:hover{
+ transform: scale(1.1);
+ }
+
+
+ .image10{
+
+  display:block;
+  transition: transform 4s;
+   overflow: hidden;
+   transform-origin: center;
+  
+ }
+ 
+ .image10:hover{
+ transform: scale(1.1);
+ }
+
+
+
+
+
+ 
+.image20{
+
+  display:block;
+  transition: transform 4s;
+   overflow: hidden;
+   transform-origin: center;
+  
+ }
+ 
+ .image20:hover{
+ transform: scale(1.1);
+ }
+ 
+ 
+ .image19{
+ 
+   display:block;
+   transition: transform 4s;
+    overflow: hidden;
+    transform-origin: center;
+   
+  }
+  
+  .image19:hover{
+  transform: scale(1.1);
+  }
+ 
+ .image21{
+  width:230px;
+ }
+
+ .image22{
+  width:225px;
+ }
+
+ .image23{
+  width:225px;
+ }
+
+ .image24{
+  width:225px;
+ }
+
+ .image25{
+  width:225px;
+ }
+
+
+ 
+.image31{
+
+  display:block;
+  transition: transform 4s;
+   overflow: hidden;
+   transform-origin: center;
+  
+ }
+ 
+ .image31:hover{
+ transform: scale(1.1);
+ }
+
+ .image26{
+  height:280px;
+ }
+
+ .image27{
+  height:280px;
+ }
+
+ .image28{
+  height:280px;
+ }
+
+ .image29{
+  height:280px;
+ }
+
+ .image30{
+  height:280px;
+ }
+
+ .image32{
+  margin-top: 1.5rem;
+  display:block;
+  transition: transform 1s;
+   overflow: hidden;
+   transform-origin: center;
+ }
+ 
+ .image32:hover{
+ transform: scale(1.2);
+ }
+
+ .image33{
+  margin-top: 1.5rem;
+  margin-left: 13px;
+  display:block;
+  transition: transform 1s;
+   overflow: hidden;
+   transform-origin: center;
+ }
+
+ .image33:hover{
+  transform: scale(1.2);
+ }
+
+ .image34{
+  margin-top: 1.5rem;
+  margin-left: -13px;
+  display:block;
+  transition: transform 1s;
+   overflow: hidden;
+   transform-origin: center;
+ }
+
+ .image34:hover{
+  transform: scale(1.2);
+ }
+
+ .image35{
+  margin-top: 1.5rem;
+  margin-left: 8px;
+  display:block;
+  transition: transform 1s;
+   overflow: hidden;
+   transform-origin: center;
+ }
+
+ .image35:hover{
+  transform: scale(1.2);
+ }
+
+ .image36{
+  margin-top: 1.5rem;
+  margin-left: 30px;
+  display:block;
+  transition: transform 1s;
+   overflow: hidden;
+   transform-origin: center;
+ }
+
+ .image36:hover{
+  transform: scale(1.2);
+ }
+
+ .image37{
+  margin-top: 1.5rem;
+  margin-left: 13px;
+  display:block;
+  transition: transform 1s;
+   overflow: hidden;
+   transform-origin: center;
+ }
+
+ .image37:hover{
+  transform: scale(1.2);
+ }
+
+
+.box2{
+  margin-left: -280px;
+}
+
+.custom{
+  overflow: hidden;
+}
+
+
+
+
+
+.box3{
+  margin-left: -300px;
+}
+
+ .box4{
+  margin-left: -60rem;
+  margin-top: 100px;
+} 
+
+
+.anker1{
+  text-decoration: none;
+  margin-left: 5rem;
+  color: white;
+}
+
+
+
+.anker2 {
+  text-decoration: none;
+  margin-left: 5rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease; /* Adding a transition for the margin */
+}
+
+.anker2:hover {
+  color: #E55156;
+  margin-left: 6rem; /* Adjust the value to control the amount of movement */
+}
+
+.anker2::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker2:hover::before {
+  opacity: 1;
+}
+
+.anker3 {
+  text-decoration: none;
+  margin-left: 5rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease; /* Adding a transition for the margin */
+}
+
+.anker3:hover {
+  color: #E55156;
+  margin-left: 6rem; /* Adjust the value to control the amount of movement */
+}
+
+.anker3::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker3:hover::before {
+  opacity: 1;
+}
+
+
+.anker4 {
+  text-decoration: none;
+  margin-left: 5rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease; /* Adding a transition for the margin */
+}
+
+.anker4:hover {
+  color: #E55156;
+  margin-left: 6rem; /* Adjust the value to control the amount of movement */
+}
+
+.anker4::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker4:hover::before {
+  opacity: 1;
+}
+
+
+.anker5 {
+  text-decoration: none;
+  margin-left: 5rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease; /* Adding a transition for the margin */
+}
+
+.anker5:hover {
+  color: #E55156;
+  margin-left: 6rem; /* Adjust the value to control the amount of movement */
+}
+
+.anker5::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker5:hover::before {
+  opacity: 1;
+}
+
+.anker6 {
+  text-decoration: none;
+  margin-left: 5rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease; /* Adding a transition for the margin */
+}
+
+.anker6:hover {
+  color: #E55156;
+  margin-left: 6rem; /* Adjust the value to control the amount of movement */
+}
+
+.anker6::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker6:hover::before {
+  opacity: 1;
+}
+
+.anker7{
+  text-decoration: none;
+  margin-left: 10rem;
+  color: white;
+}
+
+.anker8 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker8:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker8::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker8:hover::before {
+  opacity: 1;
+}
+
+
+.anker9 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker9:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker9::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker9:hover::before {
+  opacity: 1;
+}
+
+.anker10 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker10:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker10::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker10:hover::before {
+  opacity: 1;
+}
+
+.anker11 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker11:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker11::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker11:hover::before {
+  opacity: 1;
+}
+
+.anker12 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker12:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker12::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker12:hover::before {
+  opacity: 1;
+}
+
+.anker13{
+  text-decoration: none;
+  margin-left: 10rem;
+  color: white;
+}
+
+
+.anker14 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker14:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker14::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker14:hover::before {
+  opacity: 1;
+}
+
+.anker15 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker15:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker15::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker15:hover::before {
+  opacity: 1;
+}
+
+.anker16 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker16:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker16::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker16:hover::before {
+  opacity: 1;
+}
+
+.anker17 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker17:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker17::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker17:hover::before {
+  opacity: 1;
+}
+
+.anker18 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker18:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker18::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker18:hover::before {
+  opacity: 1;
+}
+
+
+.anker19{
+  text-decoration: none;
+  margin-left: 10rem;
+  color: white;
+}
+
+.anker20 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker20:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker20::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker20:hover::before {
+  opacity: 1;
+}
+
+.anker21 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker21:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker21::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker21:hover::before {
+  opacity: 1;
+}
+
+.anker22 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker22:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker22::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker22:hover::before {
+  opacity: 1;
+}
+
+.anker23 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker23:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker23::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker23:hover::before {
+  opacity: 1;
+}
+
+.anker24 {
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+  cursor: pointer;
+  position: relative;
+  transition: margin-left 0.3s ease;
+}
+
+.anker24:hover {
+  color: #E55156;
+  margin-left: 11rem; /* Adjusted the margin-left value for the rightward movement */
+}
+
+.anker24::before {
+  content: '//';
+  position: absolute;
+  left: -1.5rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.anker24:hover::before {
+  opacity: 1;
+}
+/* 
+.anker20{
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+}
+
+.anker21{
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+}
+
+.anker22{
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+}
+
+.anker23{
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+}
+
+.anker24{
+  text-decoration: none;
+  margin-left: 10rem;
+  color: grey;
+} */
+
+
+.hr3 {
+  position: relative;
+  margin-top: -3rem;
+  border: none;
+  height: 2px;
+  background-color: grey;
+  border-width: 2px;
+  width:60rem;
+  margin-left: 6rem;
+
+}
+
+
+   .go-to-top{
+  margin-left: 70rem;
+  margin-top: -10rem;
+}   
+
+
+
+
+/* 
+.go-to-top {
+  display: none;
+  position: fixed;
+  bottom: -50px;
+  right: 20px;
+  background-color: white;
+  color: grey;
+  border: none;
+  border-radius: 50%;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 9999;
+}
+
+.go-to-top span {
+  font-size: 20px;
+  line-height: 1;
+}
+
+.go-to-top.show {
+  display: block;
+  transition: opacity 0.3s ease-in-out;
+} 
+*/
+
