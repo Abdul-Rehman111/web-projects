@@ -1,0 +1,2 @@
+1)First make a folder name context and a file in it named as UserContext.js
+2)
